@@ -22,19 +22,19 @@
     "url": "https://toolbox.zgriffin.com",
     "icon": "https://icons.duckduckgo.com/ip3/toolbox.zgriffin.com.ico",
     "slug": "toolbox",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-05-01": 0
+      "2023-05-01": 6
     }
   }
 ]
