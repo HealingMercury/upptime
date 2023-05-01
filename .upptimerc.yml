@@ -7,20 +7,14 @@ sites:
     url: https://toolbox.zgriffin.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zgriffin.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.zgriffin.com/images/logo.png
   name: Upptime
   introTitle: "ZG Status"
   introMessage: "Status page for applications under the within the zgriffin ecosystem"
   navbar:
     - title: Status
       href: /
-    - title: zgriffin.com
-      href: https://zgriffin.com
-
   i18n:
     footer: "&copy; <script>document.write(new Date().getFullYear())</script> ZACH GRIFFIN"
 
