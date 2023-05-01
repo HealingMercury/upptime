@@ -18,7 +18,7 @@ status-website:
     - title: Status
       href: /
   i18n:
-    footer: "&copy; <script>document.write(new Date().getFullYear())</script> ZACH GRIFFIN"
+    footer: "ZACH GRIFFIN STATUS"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
