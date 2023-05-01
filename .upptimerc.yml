@@ -9,7 +9,7 @@ sites:
 status-website:
   cname: status.zgriffin.com
   logoUrl: https://cdn.zgriffin.com/images/logo.png
-  name: Upptime
+  name: Status
   introTitle: "ZG Status"
   introMessage: "Status page for applications under the within the zgriffin ecosystem"
   navbar:
