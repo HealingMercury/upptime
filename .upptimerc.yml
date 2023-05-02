@@ -22,7 +22,7 @@ status-website:
     footer: "ZACH GRIFFIN STATUS"
   runner: "[self-hosted, linux, ARM64]"
   workflowSchedule:
-    graphs: "0 0 * * *"
+    graphs: "5 * * * *"
     responseTime: "0 * * * *"
     staticSite: "0 1 * * *"
     summary: "0 0 * * *"
