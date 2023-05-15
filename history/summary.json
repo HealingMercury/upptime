@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 86,
-    "timeWeek": 96,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "time": 136,
+    "timeDay": 108,
+    "timeWeek": 98,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/toolbox.zgriffin.com.ico",
     "slug": "toolbox",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.66%",
+    "uptimeDay": "67.23%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
     "time": 246,
-    "timeDay": 327,
-    "timeWeek": 234,
+    "timeDay": 0,
+    "timeWeek": 241,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-05-14": 0
+      "2023-05-15": 60,
+      "2023-05-14": 411
     }
   }
 ]
